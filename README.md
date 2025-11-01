@@ -16,7 +16,7 @@
 
 </div>
 
-<hr></hr>
+<hr>Shimaa Mohemmed</hr>
 
 ### 👩🏻‍💻 About Me
 
