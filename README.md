@@ -1,4 +1,4 @@
-<div align="center" width="50">
+ <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
@@ -12,9 +12,9 @@
 
 ### 🌸 Hey there!
 
-I'm **Shaimaa Mahdi** — a passionate *Medical IT student* who loves programming and building creative projects 💻  
-I’m always exploring new technologies and developing small apps to improve my skills in **desktop applications**, **databases**, and **web development**.  
-Curious by nature, I enjoy experimenting with **Linux systems**, solving problems, and bringing ideas to life.  
+👩🏻‍💻 Medical IT student who loves turning ideas into code.  
+🌱 Currently learning and building projects to sharpen my programming skills.  
+💡 Passionate about problem-solving, creative design, and technology.  
 
 ---
 
@@ -39,5 +39,5 @@ class Shaimaa {
     "Tools": { "Git", "VSCode", "Linux" }
   };
 }
- 
+
  
