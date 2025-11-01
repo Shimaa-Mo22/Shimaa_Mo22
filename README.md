@@ -1,4 +1,3 @@
- 
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
@@ -11,24 +10,25 @@
 
 <hr></hr>
 
-### 🌸 مرحبًا!
+### 🌸 Hey there!
 
-أنا **شيماء مهدي**، طالبة في **تكنولوجيا المعلومات الطبية** وشغوفة بعالم البرمجة.  
-أحب بناء المشاريع العملية لتطوير مهاراتي في **تطوير التطبيقات** و**قواعد البيانات** و**واجهات المستخدم**.  
-أسعى دائمًا للتعلم المستمر وتجربة أفكار جديدة تربط بين التقنية والطب. 💻✨
+I'm **Shaimaa Mahdi** — a passionate *Medical IT student* who loves programming and building creative projects 💻  
+I’m always exploring new technologies and developing small apps to improve my skills in **desktop applications**, **databases**, and **web development**.  
+Curious by nature, I enjoy experimenting with **Linux systems**, solving problems, and bringing ideas to life.  
 
 ---
 
-### 🛠️ Tools & Technologies I use
+### 🛠️ Tools & Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ```dart
 class Shaimaa {
@@ -36,7 +36,8 @@ class Shaimaa {
     "Languages": { "Java", "Python", "C++" },
     "Frontend": { "HTML", "CSS" },
     "Database": { "MySQL" },
-    "Tools": { "Git", "VSCode" }
+    "Tools": { "Git", "VSCode", "Linux" }
   };
 }
+ 
  
